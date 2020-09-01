@@ -2,7 +2,7 @@
  *        File: git-lab-program.cc
  *      Author: Harmon Brammer
  *        Date: 09/01/2020
- * Description: Add Description
+ * Description: A program worth 35 points.
  */
 
 #include <iostream>
